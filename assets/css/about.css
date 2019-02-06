@@ -1,0 +1,7 @@
+.testimonial_box p{
+    color:red;
+    font-weight: 300;
+}
+.testimonial_author img{
+    border-radius: 100px;  
+}
